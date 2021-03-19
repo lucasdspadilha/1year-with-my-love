@@ -1,2 +1,99 @@
-# 1year-with-my-love
- Site feito com todo carinho para 1 ano de namoro
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <title>Meu amor - 24/7</title>
+
+  </head>
+  <body>
+
+    <header>
+      <nav class="navbar navbar-expand-md fixed-top navbar-transparente">
+        <div class="container">
+          <a href="index.html" class="navbar-brand m-auto pb-0">
+            <img src="img/logo-baix-r.png" width="150" alt=""> 
+          </a>
+        </div>
+      </nav>
+    </header>
+
+    <section id="home" class="d-flex">
+      <div class="container align-self-center">
+        <div class="row">
+          <div class="col-md-12 capa">
+            <div id="carousel-spotify" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="row">
+                  <div class="col-2"></div>
+                  <div class="carousel-item col-8 active">
+                    <h1>Our Day</h1>
+                    <p class="text-justify m-auto">Bonjour! Não passamos nosso fim de semana em Paris e nem veijamos para nenhum local a altura, mas sinto e sei que estou em um lugar melhor ainda, em sua companhia! Sempre estarei, pois você é meu porto seguro... Seja onde estivermos, se eu estiver com você, todo dia será o mais especial do mundo, assim como hoje! Quero te dizer que, <strong>TE AMO.</strong> </p>
+                    <div class="col-2"></div>
+                  </div>
+                  <div class="carousel-item">
+                    <h1 class="mt-5">My Life</h1>
+                    <div class="col-1"></div>
+                    <p class="text-justify col-8 m-auto">Hoje relembro que a coisa mais importante da minha vida apareceu do outro lado da rua no dia 22/02/20, e que assim como no dia eu desabafei para o motorista do uber, hoje eu desabafo para você! Desabafo que você é o grande amor da minha vida, que me faz sorrir de orelha a orelha simplesmente por refletir sua beleza em meus olhos.
+                    <div class="col-1"></div>
+                  </div>
+                </div>
+              </div>
+              <a href="#carousel-spotify" class="carousel-control-prev" data-slide="prev">
+                <i class="fas fa-angle-left fa-3x"></i> <!--fa-3x em vez de fa-lg-->
+              </a>
+              <a href="#carousel-spotify" class="carousel-control-next" data-slide="next">
+                <i class="fas fa-angle-right fa-3x"></i>
+              </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="servicos"> 
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h2>Apenas 1 ano, do inicio do infinito.</h2>
+            
+            <p>  22 de Março, o que dizer desta data? Bom, primeiramente, que te amo, segundo, que te amo, terceiro, que te amo... 
+              A cada momento que me pego pensando que já se passou 1 ano, me vejo segurando lagrimas, de alegria, e de tristesa.
+              Alegria de estar com a pessoa mais maravilhosa e perfeita deste mundinho ao meu lado... E tristeza por saudades, que sinto todos os dias para te ver novamente, e por não poder estar a cada segundo do seu lado, acordando e vendo o sorriso com cara de brava (por ter acordado) iluminando meu dia mais que o próprio sol!!!</p>
+            <p>E assim já se foram 1 ano, divididos em momentos que estou ao seu lado e vejo os dias passando como segundos, e momentos em que não esta presente em meu lado, quando forço-me a parar de olhar suas fotos para que os dias passem mais rapidos, pois nesses momentos sintom-me a beira do Everest, com pouca oxigenação e com frio fazendo o tempo parar e imaginando em apenas sair dali para me acalmar... (Acho que exagerei kkkk...)</p>
+            <p>E em idas e vindas sei que ainda temos muito a passar, e que quero aproveitar tudo que estiver a nosso alcance, e o que não estiver também, pois com você ao meu lado sei que somos capazes de qualquer coisa, menos de abrir mão um do outro... E por isso as vezes gosto de acreditar que nascemos no início segundo milênio para podermos aproveitar juntos o seu primeiro século, do início ao fim, que espero nunca existir.
+               <i class="fas fa-infinity"></i></p>
+            <p></p>
+              <a href="songs.html" class="btn btn-custom btn-success">Our Histoy <i class="fas fa-history"></i></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <p style="color: white;"><img src="img/logo2-b-r.png" width="142" class="mb-3"> Feito com amor e carinho para o amor da minha vida<em>(Giulia Alves de Almeida Iezzi)</em>. - By Lucas Padilha</p>
+          </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>
